@@ -66,5 +66,40 @@
             "image": "https://i.ibb.co.com/21GN7Rrj/6.jpg",
             "category": "AI & ML"
         }
+    ],
+    "popular": [
+        {
+            "id": 4,
+            "title": "Node.js & Express API Development",
+            "instructor": "Sarah Johnson",
+            "duration": "16 hours",
+            "rating": 4.6,
+            "level": "Intermediate",
+            "description": "Create RESTful APIs using Node.js and Express.",
+            "image": "https://i.ibb.co.com/DH9mS04J/4.jpg",
+            "category": "Backend"
+        },
+        {
+            "id": 5,
+            "title": "Python for Data Science",
+            "instructor": "David Kim",
+            "duration": "22 hours",
+            "rating": 4.8,
+            "level": "Beginner",
+            "description": "Analyze data and build models using Python.",
+            "image": "https://i.ibb.co.com/9kS2fRKH/5.jpg",
+            "category": "Data Science"
+        },
+        {
+            "id": 6,
+            "title": "Machine Learning A-Z",
+            "instructor": "Emily Davis",
+            "duration": "25 hours",
+            "rating": 4.7,
+            "level": "Advanced",
+            "description": "Master machine learning algorithms and real-world applications.",
+            "image": "https://i.ibb.co.com/21GN7Rrj/6.jpg",
+            "category": "AI & ML"
+        }
     ]
 }
