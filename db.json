@@ -1,4 +1,5 @@
-[
+{
+    "products": [
     {
         "id": 1,
         "title": "Complete Web Development Bootcamp",
@@ -88,3 +89,4 @@
         "category": "DevOps"
     }
 ]
+    }
