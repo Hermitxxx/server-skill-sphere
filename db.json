@@ -8,6 +8,7 @@
             "rating": 4.8,
             "level": "Beginner",
             "description": "Learn full-stack web development from scratch.",
+            "big_description": "Comprehensive course covering HTML, CSS, JavaScript, Node.js, Express, databases, and deployment. Includes practical projects, quizzes, and step-by-step guidance to build production-ready web applications.",
             "image": "https://i.ibb.co.com/Fk8WVxjx/1.jpg",
             "category": "Development"
         },
@@ -19,6 +20,7 @@
             "rating": 4.7,
             "level": "Intermediate",
             "description": "Deep dive into modern JavaScript concepts and patterns.",
+            "big_description": "In-depth coverage of modern JavaScript: ES6+, asynchronous patterns, closures, design patterns, performance optimization, and testing. Includes code-alongs, exercises, and real-world examples to sharpen advanced skills.",
             "image": "https://i.ibb.co.com/JWx7v92v/2.jpg",
             "category": "Programming"
         },
@@ -30,6 +32,7 @@
             "rating": 4.9,
             "level": "Intermediate",
             "description": "Build scalable web apps using React and Next.js.",
+            "big_description": "Covers component design, state management, routing, server-side rendering with Next.js, API routes, and performance optimization. Includes real-world projects and deployment walkthroughs to Vercel or similar hosts.",
             "image": "https://i.ibb.co.com/Z6KD1phM/3.jpg",
             "category": "Frontend"
         },
@@ -41,6 +44,7 @@
             "rating": 4.6,
             "level": "Intermediate",
             "description": "Create RESTful APIs using Node.js and Express.",
+            "big_description": "Step-by-step API development with Express, middleware, authentication, testing, and best practices for building scalable backends. Hands-on projects demonstrate routing, data validation, and deployment.",
             "image": "https://i.ibb.co.com/DH9mS04J/4.jpg",
             "category": "Backend"
         },
@@ -52,6 +56,7 @@
             "rating": 4.8,
             "level": "Beginner",
             "description": "Analyze data and build models using Python.",
+            "big_description": "Covers NumPy, pandas, data visualization, statistical analysis, and introductory machine learning with scikit-learn. Projects include data cleaning, exploration, visualization, and model evaluation.",
             "image": "https://i.ibb.co.com/9kS2fRKH/5.jpg",
             "category": "Data Science"
         },
@@ -63,6 +68,7 @@
             "rating": 4.7,
             "level": "Advanced",
             "description": "Master machine learning algorithms and real-world applications.",
+            "big_description": "Comprehensive ML course covering supervised and unsupervised learning, feature engineering, model selection, evaluation, and practical case studies. Includes hands-on projects and best-practice guidance for productionizing models.",
             "image": "https://i.ibb.co.com/21GN7Rrj/6.jpg",
             "category": "AI & ML"
         }
@@ -76,6 +82,7 @@
             "rating": 4.6,
             "level": "Intermediate",
             "description": "Create RESTful APIs using Node.js and Express.",
+            "big_description": "Step-by-step API development with Express, middleware, authentication, testing, and best practices for building scalable backends. Hands-on projects demonstrate routing, data validation, and deployment.",
             "image": "https://i.ibb.co.com/DH9mS04J/4.jpg",
             "category": "Backend"
         },
@@ -87,6 +94,7 @@
             "rating": 4.8,
             "level": "Beginner",
             "description": "Analyze data and build models using Python.",
+            "big_description": "Covers NumPy, pandas, data visualization, statistical analysis, and introductory machine learning with scikit-learn. Projects include data cleaning, exploration, visualization, and model evaluation.",
             "image": "https://i.ibb.co.com/9kS2fRKH/5.jpg",
             "category": "Data Science"
         },
@@ -98,6 +106,7 @@
             "rating": 4.7,
             "level": "Advanced",
             "description": "Master machine learning algorithms and real-world applications.",
+            "big_description": "Comprehensive ML course covering supervised and unsupervised learning, feature engineering, model selection, evaluation, and practical case studies. Includes hands-on projects and best-practice guidance for productionizing models.",
             "image": "https://i.ibb.co.com/21GN7Rrj/6.jpg",
             "category": "AI & ML"
         }
